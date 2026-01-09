@@ -7,9 +7,12 @@ plotly==5.22.0
 wordcloud==1.9.3
 numpy==1.26.4
 pillow==10.4.0
-# Add to existing requirements.txt
+
 openai==1.35.0
+google-generativeai==0.5.4
+
 speechrecognition==3.10.0
 gTTS==2.5.1
 pydub==0.25.1
-pygame==2.6.0
+streamlit-mic-recorder==0.0.8
+requests
