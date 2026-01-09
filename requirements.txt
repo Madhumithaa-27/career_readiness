@@ -1,0 +1,15 @@
+streamlit==1.38.0
+PyPDF2==3.0.1
+nltk==3.8.1
+scikit-learn==1.5.1
+pandas==2.2.2
+plotly==5.22.0
+wordcloud==1.9.3
+numpy==1.26.4
+pillow==10.4.0
+# Add to existing requirements.txt
+openai==1.35.0
+speechrecognition==3.10.0
+gTTS==2.5.1
+pydub==0.25.1
+pygame==2.6.0
